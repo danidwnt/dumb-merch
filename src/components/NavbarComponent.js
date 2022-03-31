@@ -7,7 +7,7 @@ const NavbarComponent = () => {
     return (
         <div className='background-logi'>
             
-                <Nav className="justify-content-end container py-3" style={{
+                <Nav className="justify-content-end container py-4" style={{
                     background: '#0B0B0B', height: '85px'
                 }}>
                     <Link to="/user-shop">
