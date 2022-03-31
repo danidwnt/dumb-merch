@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 import ContentIndex from '../components/ContentIndex'
 import Product from './Product'
-import UserShop from './UserShop'
+// import UserShop from './UserShop'
 
 
 

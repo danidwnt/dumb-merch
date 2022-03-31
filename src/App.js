@@ -3,7 +3,7 @@ import Login from './pages/Login';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Register from './pages/Register';
-import UserShop from './pages/UserShop';
+// import UserShop from './pages/UserShop';
 import DetailProduct from './pages/DetailProduct';
 import Profile from './pages/Profile';
 import Complain from './pages/Complain';

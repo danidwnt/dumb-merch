@@ -102,7 +102,7 @@ const styles = {
     background : '#56C05A',
     color : 'white',
     fontWeight : 500,
-    border: 'none'
+    
   }
 
 };

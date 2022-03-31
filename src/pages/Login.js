@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import '../style.css'
 import ContentIndex from '../components/ContentIndex'
-import { Link } from 'react-router-dom'
-import UserShop from './UserShop'
+// import { Link } from 'react-router-dom'
+// import UserShop from './UserShop'
 import ListAndKey from '../datadummy/ListAndKey'
 
 export default class Login extends Component {

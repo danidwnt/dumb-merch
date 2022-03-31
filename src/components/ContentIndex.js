@@ -12,7 +12,7 @@ const ContentIndex = () => {
                     <button className='btn-login'>Login</button>
                     </Link>
                     <Link to='/register'>
-                    <a className='btn-register'>Register</a>
+                    <p className='btn-register'>Register</p>
                     </Link>
                     
             </div>
