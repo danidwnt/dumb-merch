@@ -40,7 +40,7 @@ const NavbarAdmin = () => {
                             color: 'white',
                             fontWeight: '600', fontSize: '18px', marginTop: '10px', textDecoration: 'none'
                         }}>
-                        Category
+                        Product
                     </Link>
                     </Nav.Link>
                     </Nav.Item>
