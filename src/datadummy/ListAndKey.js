@@ -11,7 +11,7 @@ import {Link} from 'react-router-dom'
 export default class ListAndKey extends Component {
     render() {
         return (
-            <div className='background-page' >
+            <div className='background-login' >
                 <NavbarComponent />
                 <Container className='py-5 mt-5'>
                 <Link style={{textDecoration: 'none'}} to='/Detail-product'>
