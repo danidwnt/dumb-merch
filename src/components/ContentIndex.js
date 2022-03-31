@@ -11,7 +11,7 @@ const ContentIndex = () => {
                     <Link to='/'>
                     <button className='btn-login'>Login</button>
                     </Link>
-                    <Link to='/register'>
+                    <Link to='/register' style={{textDecoration: 'none'}}>
                     <p className='btn-register'>Register</p>
                     </Link>
                     

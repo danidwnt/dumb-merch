@@ -18,6 +18,8 @@ import Rating from './pages/Rating';
 
 function App() {
   return (
+//    <div className='background-login'>
+
    
       <Router>
             <Routes>
@@ -38,7 +40,7 @@ function App() {
                 </Route>
             </Routes>
       </Router>
-
+// </div>
     
   );
 }
