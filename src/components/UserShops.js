@@ -4,7 +4,7 @@ import ListAndKey from '../datadummy/ListAndKey'
 export default class UserShops extends Component {
   render() {
     return (
-      <div>
+      <div className='background-page'>
         <ListAndKey />
       </div>
     )
