@@ -92,7 +92,7 @@ const styles = {
     minHeight: 100,
     width: 300,
     color : 'white',
-    border : '1px solid white'
+    
   },
   button: {
     border: "1px solid #a9a9a9",
